@@ -1,0 +1,6 @@
+{
+  "name": "CrimeNet Analyst",
+  "description": "AI-Powered Criminal Network Analysis System for intelligence investigation, POLE entity extraction, graph centrality, and explainable risk analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
